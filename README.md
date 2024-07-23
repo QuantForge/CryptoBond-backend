@@ -73,26 +73,22 @@ Welcome to the **CryptoBond Backend**! This repository contains the backend comp
 ### Contributing
 
 
-We welcome contributions to CryptoBond! To contribute:
+**We welcome contributions to CryptoBond! To contribute:**
 
-   ```sh
-   Fork the repository.
-
-   ```sh
-   Create a new branch for your feature or bug fix.
-
-   ```sh
-   Make your changes and test thoroughly.
-
-   ```sh
-   Submit a pull request with a clear description of your changes.
+	Fork the repository.
+ 
+ 	Create a new branch for your feature or bug fix.
+  
+  	Make your changes and test thoroughly.
+   
+   	Submit a pull request with a clear description of your changes.
 
 ### Contact
 
 **For questions or support, reach us at :**
 
-	- [Email](quantforg@gmail.com)
-	- [GitHub](https://github.com/QuantForge)
+    [Email](quantforg@gmail.com)
+    [GitHub](https://github.com/QuantForge)
 
 ### License
 
