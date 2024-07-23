@@ -68,7 +68,7 @@ Welcome to the **CryptoBond Backend**! This repository contains the backend comp
 
 3. **View Results:**
    ```sh
-  - Users can see the outcome of their bets and their updated balance.
+   Users can see the outcome of their bets and their updated balance.
 
 ### Contributing
 
@@ -87,8 +87,8 @@ Welcome to the **CryptoBond Backend**! This repository contains the backend comp
 
 **For questions or support, reach us at :**
 
-    [Email](quantforg@gmail.com)
-    [GitHub](https://github.com/QuantForge)
+[Email](quantforg@gmail.com)
+[GitHub](https://github.com/QuantForge)
 
 ### License
 
